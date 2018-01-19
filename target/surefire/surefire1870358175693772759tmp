@@ -1,0 +1,33 @@
+#surefire
+#Fri Aug 25 10:37:19 CST 2017
+testClassesDirectory=D\:\\myeclipse_workspace\\Mapper\\target\\test-classes
+classPathUrl.4=E\:\\maven\\repository\\org\\mybatis\\mybatis\\3.4.4\\mybatis-3.4.4.jar
+classPathUrl.3=E\:\\maven\\repository\\javax\\persistence\\persistence-api\\1.0\\persistence-api-1.0.jar
+classPathUrl.2=E\:\\maven\\repository\\tk\\mybatis\\mapper\\3.3.9\\mapper-3.3.9.jar
+useManifestOnlyJar=true
+classPathUrl.1=D\:\\myeclipse_workspace\\Mapper\\target\\classes
+reportsDirectory=D\:\\myeclipse_workspace\\Mapper\\target\\surefire-reports
+classPathUrl.0=D\:\\myeclipse_workspace\\Mapper\\target\\test-classes
+dirscanner.0=directoryScannerOptions
+providerConfiguration=org.apache.maven.surefire.junit.JUnit3Provider
+testSuiteDefinitionTestSourceDirectory=D\:\\myeclipse_workspace\\Mapper\\src\\test\\java
+surefireClassPathUrl.1=E\:\\maven\\repository\\org\\apache\\maven\\surefire\\surefire-api\\2.7.1\\surefire-api-2.7.1.jar
+surefireClassPathUrl.0=E\:\\maven\\repository\\org\\apache\\maven\\surefire\\surefire-junit3\\2.7.1\\surefire-junit3-2.7.1.jar
+report.2=org.apache.maven.surefire.report.XMLReporter
+useSystemClassLoader=true
+report.1=org.apache.maven.surefire.report.BriefFileReporter
+report.0=org.apache.maven.surefire.report.ForkingConsoleReporter
+excludes0=**/*$*
+isTrimStackTrace=true
+dirscanner.0.params=D\:\\myeclipse_workspace\\Mapper\\target\\test-classes|[**/Test*.java, **/*Test.java, **/*TestCase.java]|[**/*$*]
+includes2=**/*TestCase.java
+enableAssertions=true
+includes1=**/*Test.java
+failIfNoTests=false
+includes0=**/Test*.java
+dirscanner.0.types=java.io.File|java.util.ArrayList|java.util.ArrayList
+classPathUrl.8=E\:\\maven\\repository\\junit\\junit\\3.8.1\\junit-3.8.1.jar
+classPathUrl.7=E\:\\maven\\repository\\org\\postgresql\\postgresql\\9.4.1212.jre7\\postgresql-9.4.1212.jre7.jar
+childDelegation=false
+classPathUrl.6=E\:\\maven\\repository\\com\\github\\jsqlparser\\jsqlparser\\0.9.5\\jsqlparser-0.9.5.jar
+classPathUrl.5=E\:\\maven\\repository\\com\\github\\pagehelper\\pagehelper\\4.2.1\\pagehelper-4.2.1.jar

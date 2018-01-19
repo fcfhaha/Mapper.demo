@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.taotao.mapper.TScmSmtConfigureMapper">
+  <resultMap id="BaseResultMap" type="com.taotao.pojo.TScmSmtConfigure">
+    <!--
+      WARNING - @mbg.generated
+    -->
+    <id column="id" jdbcType="INTEGER" property="id" />
+    <result column="line_type" jdbcType="VARCHAR" property="lineType" />
+    <result column="line_number" jdbcType="VARCHAR" property="lineNumber" />
+    <result column="machine_type" jdbcType="SMALLINT" property="machineType" />
+    <result column="machine_name" jdbcType="VARCHAR" property="machineName" />
+    <result column="acquire_pattern_path" jdbcType="VARCHAR" property="acquirePatternPath" />
+    <result column="save_local_path" jdbcType="VARCHAR" property="saveLocalPath" />
+    <result column="picture_name" jdbcType="VARCHAR" property="pictureName" />
+    <result column="last_update_date" jdbcType="TIMESTAMP" property="lastUpdateDate" />
+    <result column="last_updated_by" jdbcType="VARCHAR" property="lastUpdatedBy" />
+    <result column="create_date" jdbcType="TIMESTAMP" property="createDate" />
+    <result column="created_by" jdbcType="VARCHAR" property="createdBy" />
+    <result column="active" jdbcType="CHAR" property="active" />
+  </resultMap>
+ 
+</mapper>
